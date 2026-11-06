@@ -5,11 +5,11 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/hildanilo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+Java;Construindo+APIs+robustas+e+escal%C3%A1veis;Focado+em+Clean+Code+e+Arquitetura+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+Java;Flutter+%E2%80%A2+Dart+%E2%80%A2+Mobile;Construindo+APIs+robustas+e+escal%C3%A1veis;Focado+em+Clean+Code+e+Arquitetura+de+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/danilo-araujo-a31608429/ target="_blank">
+    <a href="https://www.linkedin.com/in/danilo-araujo-a31608429/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:hildanilo@gmail.com" target="_blank">
@@ -28,7 +28,7 @@ Sou desenvolvedor de software com sólida experiência no ecossistema backend e 
 - 🔭 Atualmente desenvolvendo APIs corporativas, microsserviços e integrações com webhooks, filas e pagamentos.
 - 📐 Princípios de desenvolvimento: **Clean Architecture**, **SOLID**, **MVC**, **Repository Pattern** e **Domain-Driven Design**.
 - ⚙️ Experiência com modelagem de bancos relacionais, conciliação financeira e esteiras automatizadas.
-- 💬 Me pergunte sobre: **NestJS, TypeScript, Java/Spring, Arquitetura de APIs e Bancos Relacionais**.
+- 💬 Me pergunte sobre: **NestJS, TypeScript, Java/Spring, Flutter, Dart, Arquitetura de APIs e Bancos Relacionais**.
 
 ---
 
@@ -56,6 +56,13 @@ Sou desenvolvedor de software com sólida experiência no ecossistema backend e 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="130"><b>Mobile</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
       </td>
     </tr>
     <tr>
@@ -193,12 +200,8 @@ Sou desenvolvedor de software com sólida experiência no ecossistema backend e 
 
   <p>Estou sempre aberto a trocar ideias sobre novas tecnologias, projetos e oportunidades inovadoras.</p>
 
-  <a href="https://linkedin.com/in/hildanilo" target="_blank">
+  <a href="https://www.linkedin.com/in/danilo-araujo-a31608429/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/hildanilo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:hildanilo@gmail.com">
