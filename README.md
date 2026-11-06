@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner / Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=220&section=header&text=Danilo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack&descAlignY=58&descAlign=50" width="100%" alt="Danilo Banner" />
-
   <!-- Typing Animation -->
   <a href="https://github.com/hildanilo">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+Java;Flutter+%E2%80%A2+Dart+%E2%80%A2+Mobile;Construindo+APIs+robustas+e+escal%C3%A1veis;Focado+em+Clean+Code+e+Arquitetura+de+Software" alt="Typing SVG" />
