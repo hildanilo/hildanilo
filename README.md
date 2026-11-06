@@ -2,7 +2,7 @@
 
   <!-- Typing Animation -->
   <a href="https://github.com/hildanilo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+Java;Flutter+%E2%80%A2+Dart+%E2%80%A2+Mobile;Construindo+APIs+robustas+e+escal%C3%A1veis;Focado+em+Clean+Code+e+Arquitetura+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Backend+%26+Full+Stack;Node.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript+%E2%80%A2+Java;Mobile+%E2%80%A2+Flutter+%E2%80%A2+React+Native+%E2%80%A2+Dart;Especialista+em+Emiss%C3%A3o+Fiscal+(NF-e%2C+NFC-e%2C+CT-e);Integracao+Bancaria+%E2%80%A2+Boletos+%E2%80%A2+Concilia%C3%A7%C3%A3o;Focado+em+Clean+Code+e+Arquitetura+de+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,9 +23,11 @@
 Sou desenvolvedor de software com sólida experiência no ecossistema backend e web, focado na concepção e sustentação de APIs escaláveis, integração de serviços e arquitetura em camadas. Tenho paixão por resolver problemas reais com código limpo, padrões de projeto bem estruturados e alto desempenho.
 
 - 🔭 Atualmente desenvolvendo APIs corporativas, microsserviços e integrações com webhooks, filas e pagamentos.
+- 📑 **Especialista Fiscal & Bancário:** Amplo domínio no desenvolvimento e sustentação de emissores de documentos fiscais eletrônicos (**NF-e**, **NFC-e**, **CT-e**), além de automação bancária completa com geração de **boletos**, remessa, retorno e conciliação.
+- 📱 **Mobile & Multiplataforma:** Desenvolvimento de aplicativos modernos e responsivos com **Flutter** e **React Native**.
 - 📐 Princípios de desenvolvimento: **Clean Architecture**, **SOLID**, **MVC**, **Repository Pattern** e **Domain-Driven Design**.
 - ⚙️ Experiência com modelagem de bancos relacionais, conciliação financeira e esteiras automatizadas.
-- 💬 Me pergunte sobre: **NestJS, TypeScript, Java/Spring, Flutter, Dart, Arquitetura de APIs e Bancos Relacionais**.
+- 💬 Me pergunte sobre: **Emissão Fiscal (NF-e, NFC-e, CT-e), Boletos Bancários, NestJS, TypeScript, Java/Spring, Flutter, React Native e Bancos Relacionais**.
 
 ---
 
@@ -59,6 +61,7 @@ Sou desenvolvedor de software com sólida experiência no ecossistema backend e 
       <td align="center" width="130"><b>Mobile</b></td>
       <td>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
       </td>
     </tr>
